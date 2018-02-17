@@ -820,6 +820,34 @@
     "repo": "https://github.com/purescript-contrib/purescript-http-methods.git",
     "version": "v3.0.0"
   },
+  "hyper": {
+    "dependencies": [
+      "prelude",
+      "maps",
+      "eff",
+      "generics",
+      "strings",
+      "foldable-traversable",
+      "control",
+      "transformers",
+      "node-http",
+      "media-types",
+      "node-fs-aff",
+      "generics-rep",
+      "proxy",
+      "argonaut",
+      "arrays",
+      "argonaut-codecs",
+      "http-methods",
+      "indexed-monad",
+      "smolder",
+      "aff",
+      "random",
+      "refs"
+    ],
+    "repo": "https://github.com/owickstrom/hyper.git",
+    "version": "v0.8.0"
+  },
   "identity": {
     "dependencies": [
       "foldable-traversable"
